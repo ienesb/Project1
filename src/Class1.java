@@ -7,6 +7,9 @@ public class Class1 {
 		
 		// şürünbabaaa
 		// yeni comment
+		
+		
+		System.out.println("Sorun olur mu ki !!!");
 	}
 
 }
