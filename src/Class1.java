@@ -7,11 +7,15 @@ public class Class1 {
 		
 		// şürünbabaaa
 		// yeni comment
+<<<<<<< HEAD
 		
 		
 		System.out.println("Sorun olur mu ki !!!");
 		
 		
+=======
+		// bende yazabiliyom 
+>>>>>>> branch 'master' of https://github.com/ienesb/Project1.git
 	}
 
 }
