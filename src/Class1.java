@@ -6,6 +6,7 @@ public class Class1 {
 		System.out.println("Ol iz well ");
 		
 		// şürünbabaaa
+		// yeni comment
 	}
 
 }
