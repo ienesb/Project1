@@ -5,17 +5,7 @@ public class Class1 {
 
 		System.out.println("Ol iz well ");
 		
-		// şürünbabaaa
-		// yeni comment
-<<<<<<< HEAD
 		
-		
-		System.out.println("Sorun olur mu ki !!!");
-		
-		
-=======
-		// bende yazabiliyom 
->>>>>>> branch 'master' of https://github.com/ienesb/Project1.git
 	
 	}
 
