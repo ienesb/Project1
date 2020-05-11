@@ -7,6 +7,7 @@ public class Class1 {
 		
 		// şürünbabaaa
 		// yeni comment
+		// bende yazabiliyom 
 	}
 
 }
