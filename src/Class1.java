@@ -16,6 +16,7 @@ public class Class1 {
 =======
 		// bende yazabiliyom 
 >>>>>>> branch 'master' of https://github.com/ienesb/Project1.git
+	
 	}
 
 }
