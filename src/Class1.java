@@ -6,6 +6,7 @@ public class Class1 {
 		System.out.println("Ol iz well ");
 		System.out.println("Ol iz well 2");
 		System.out.println("Ol iz well 3");
+		System.out.println("Ol iz well 2021");
 
 
 	}
